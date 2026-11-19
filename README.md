@@ -3,7 +3,7 @@
 I am a senior **Computer Engineering** undergraduate student at **Eskişehir Technical University**, passionate about turning raw data into actionable insights and building reliable backend & AI-powered systems.
 
 - 🔭 **Currently working on:** My Senior Capstone Project in at ESTÜ.
-- - 📊 **Core Interests:** Data Analytics, Data Engineering, Applied AI/LLM Systems, and Backend Development.
+-  📊 **Core Interests:** Data Analytics, Data Engineering, Applied AI/LLM Systems, and Backend Development.
 - 🌱 **Currently focusing on:** End-to-end financial data pipelines, advanced SQL querying, and anomaly detection.
 - 💼 **Open to:** Software Engineering, Data Analytics, and Data Science internship / entry-level opportunities.
 
