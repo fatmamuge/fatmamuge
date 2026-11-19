@@ -38,7 +38,7 @@ I am a senior **Computer Engineering** undergraduate student at **Eskişehir Tec
 - **Senior Capstone Project (ESTÜ):** Developing a full-cycle software engineering project (in progress).
 - **Wholesale Market Management System (`wholesale-market-management-system`):** Developed an end-to-end web and mobile management platform featuring a **PostgreSQL** relational database, **ASP.NET Core** REST APIs, and a **Kotlin (Jetpack Compose)** mobile client during my software engineering internship.
 - **Campus Event Explorer (`campus-event-explorer`):** Built a cross-platform mobile application with **Flutter** and Material 3 design tailored for university event discovery.
-- - **Eye Care Utility (`eye-care`):** Built a lightweight Python desktop application designed to prevent digital eye strain through automated break reminders.
+- **Eye Care Utility (`eye-care`):** Built a lightweight Python desktop application designed to prevent digital eye strain through automated break reminders.
 
 ---
 
